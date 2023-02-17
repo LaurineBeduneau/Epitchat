@@ -1,0 +1,22 @@
+{
+  "name": "t-jsf-600-mpl-6-1-ircjavascript-alain-joseph-antoine.victor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently --kill-others \"cd backend && npm start \" \"cd frontend && npm run start \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechMscProPromo2025/T-JSF-600-MPL-6-1-IRCjavascript-alain-joseph-antoine.victor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechMscProPromo2025/T-JSF-600-MPL-6-1-IRCjavascript-alain-joseph-antoine.victor/issues"
+  },
+  "homepage": "https://github.com/EpitechMscProPromo2025/T-JSF-600-MPL-6-1-IRCjavascript-alain-joseph-antoine.victor#readme",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

@@ -1,0 +1,4 @@
+/* Directive Tailwind */
+@tailwind base;  /* reset de base de Tailwind CSS: Metre a zero le CSS*/
+@tailwind components; /* ? */
+@tailwind utilities; /* Import de class utilitaire de TailwindCSS */
